@@ -1,0 +1,12 @@
+C:\Users\лл\source\repos\AnnouncementApp\AnnouncementApp.DAL\bin\Debug\net6.0\AnnouncementApp.DAL.deps.json
+C:\Users\лл\source\repos\AnnouncementApp\AnnouncementApp.DAL\bin\Debug\net6.0\AnnouncementApp.DAL.dll
+C:\Users\лл\source\repos\AnnouncementApp\AnnouncementApp.DAL\bin\Debug\net6.0\AnnouncementApp.DAL.pdb
+C:\Users\лл\source\repos\AnnouncementApp\AnnouncementApp.DAL\obj\Debug\net6.0\AnnouncementApp.DAL.csproj.AssemblyReference.cache
+C:\Users\лл\source\repos\AnnouncementApp\AnnouncementApp.DAL\obj\Debug\net6.0\AnnouncementApp.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\лл\source\repos\AnnouncementApp\AnnouncementApp.DAL\obj\Debug\net6.0\AnnouncementApp.DAL.AssemblyInfoInputs.cache
+C:\Users\лл\source\repos\AnnouncementApp\AnnouncementApp.DAL\obj\Debug\net6.0\AnnouncementApp.DAL.AssemblyInfo.cs
+C:\Users\лл\source\repos\AnnouncementApp\AnnouncementApp.DAL\obj\Debug\net6.0\AnnouncementApp.DAL.csproj.CoreCompileInputs.cache
+C:\Users\лл\source\repos\AnnouncementApp\AnnouncementApp.DAL\obj\Debug\net6.0\AnnouncementApp.DAL.dll
+C:\Users\лл\source\repos\AnnouncementApp\AnnouncementApp.DAL\obj\Debug\net6.0\refint\AnnouncementApp.DAL.dll
+C:\Users\лл\source\repos\AnnouncementApp\AnnouncementApp.DAL\obj\Debug\net6.0\AnnouncementApp.DAL.pdb
+C:\Users\лл\source\repos\AnnouncementApp\AnnouncementApp.DAL\obj\Debug\net6.0\ref\AnnouncementApp.DAL.dll
